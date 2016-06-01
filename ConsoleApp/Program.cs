@@ -12,6 +12,7 @@ namespace ConsoleApp
         {
             Console.WriteLine("This if from my first Git Repository");
             Console.WriteLine("This is the first edit in Develop branch.");
+            Console.WriteLine("This is the second edit in Develop branch.");
         }
     }
 }
